@@ -23,7 +23,7 @@ Requires
 * Scala (e.g. brew install scala)
 * Gradle
 
-Use cookiecutter-java
+Use cookiecutter-play
 ---------------------
 
 cookiecutter https://github.com/m-x-k/cookiecutter-play
