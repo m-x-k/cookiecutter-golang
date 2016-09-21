@@ -12,7 +12,7 @@ Description
 
 This cookiecutter can be used to create a sample play version 2 application with gradle and intellij support.
 
-The project is an alternative to 'activator' and does not use the standard stb build framework for play!
+The project is an alternative to 'activator' and therefore does not use the standard stb build framework for play!
 
 Requires
 --------
