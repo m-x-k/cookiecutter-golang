@@ -1,0 +1,9 @@
+*.class
+*.log
+
+# IDE specific
+.scala_dependencies
+.worksheet
+.ipr
+.iws
+.idea/
