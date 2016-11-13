@@ -1,19 +1,10 @@
-# {{cookiecutter.app_name}}
+# Basic helloworld GO app 
 
-Project description goes here!
+## Run app 
 
-## IDE Setup
+'''
+cd $GOPATH/{{cookiecutter.app_name}}/src/
+go run cmd/helloworld/main.go
+'''
 
-### Intellij Setup
 
-```
-./gradlew cleanIdea idea
-```
-
-## Build and Run application
-
-```
-./gradlew clean build runPlayBinary --continuous 
-```
-
-Open the url: http://localhost:9000/
